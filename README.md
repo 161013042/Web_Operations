@@ -7,7 +7,7 @@
 IP地址| 128.199.277.172
 站长| 黄钦勇 161013042
 
-网站logo：![image](网站icon_画板 1.png)
+网站logo：![image](https://hbimg.huabanimg.com/ed0f02cc073818a6760f498fe3a6f00e415e58d213f84-6aewN1_fw658)
 
 #### 建设目标：
 为同样学习研究用户体验的同学提供一个专业的学习平台，也为用户体验设计的相关从业者提供一个友好的交流平台。
@@ -39,7 +39,7 @@ IP地址| 128.199.277.172
 
 
 #### DVF模型
-![image](Web 1920 – 1.png)
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AD%96%E5%88%92%E6%96%87%E6%A1%A3%E4%B8%8E%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE/Web%201920%20%E2%80%93%201.png)
 
 #### 网站地图：
 ![image](无念流的UE基地.png)
