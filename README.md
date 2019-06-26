@@ -39,7 +39,7 @@ IP地址| 128.199.277.172
 
 
 #### DVF模型
-![image](Web 1920 – 1.png)
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AD%96%E5%88%92%E6%96%87%E6%A1%A3%E4%B8%8E%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE/Web%201920%20%E2%80%93%201.png)
 
 #### 网站地图：
 ![image](无念流的UE基地.png)
