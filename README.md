@@ -53,10 +53,11 @@ IP地址| 128.199.277.172
 文章《SEO心得分享》封面来源：[Pexels](https://www.pexels.com/)<br>
 PS：
 ![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E5%9B%BE%E7%89%87%E7%9A%84%E4%BD%BF%E7%94%A8/%E6%B3%A8%E6%98%8E%E5%B0%81%E9%9D%A2%E5%87%BA%E5%A4%84.png)
-文章图片注明出处展示（部分）：
+文章图片注明出处展示（部分）：<br>
 ![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E5%9B%BE%E7%89%87%E7%9A%84%E4%BD%BF%E7%94%A8/%E6%B3%A8%E6%98%8E%E5%87%BA%E5%A4%84.png)
 ![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E5%9B%BE%E7%89%87%E7%9A%84%E4%BD%BF%E7%94%A8/%E8%91%97%E5%90%8D%E5%87%BA%E5%A4%841.png)<br>
-原创文章图片注明：
+<br>
+原创文章图片注明：<br>
 ![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E5%9B%BE%E7%89%87%E7%9A%84%E4%BD%BF%E7%94%A8/%E5%8E%9F%E5%88%9B%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%E6%A0%87%E6%98%8E.png)
 
 
@@ -144,7 +145,84 @@ PS：
 
 ## 站长工具
 #### 站长认证：
-百度站长认证
+**百度站长认证**<br>
+已进行的百度的站长工具验证，百度已索引我的网站[（验证链接）](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=monline_4_dg&wd=wunianliu.xyz&oq=%25E7%25AE%2580%25E5%258E%2586%25E6%25A8%25A1%25E6%259D%25BF%25E7%25BD%2591%25E7%25AB%2599&rsv_pq=d5727463001fbd73&rsv_t=4607G3RfwCdg%2FtYJwU4ypkt91u3ZD%2FyaIg79GbH3FBGIYBZ6M2jnhdPf6myfsSCoR06i&rqlang=cn&rsv_enter=1&inputT=5502&rsv_sug3=4&rsv_sug1=3&rsv_sug7=100&rsv_sug2=0&rsv_sug4=5873&rsv_sug=1)：
+
+站长工具截图：<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/%E7%AB%99%E9%95%BF%E9%AA%8C%E8%AF%81%E2%80%94%E2%80%94%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.png?raw=true)
+
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7%E7%99%BE%E5%BA%A6%E9%AA%8C%E8%AF%81%E6%88%90%E5%8A%9F.png?raw=true)
+数据显示一个百度索引量为一：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/%E7%AB%99%E9%95%BF%E8%AE%A4%E8%AF%81%E6%88%90%E5%8A%9F%EF%BC%8C%E4%B8%80%E4%B8%AA%E9%93%BE%E6%8E%A5%E8%A2%AB%E7%99%BE%E5%BA%A6%E7%B4%A2%E5%BC%95.png)
+
+**Bing站长工具认证**<br>
+已在bing网站管理员添加我的网站：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/bing%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7%E9%AA%8C%E8%AF%81%E2%80%94%E2%80%94%E6%88%90%E5%8A%9F.png)
+
+但始终无法通过bing的搜索引擎找到我的网站：<br>
+![image](https://github.com/161013042/Web_Operations/raw/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/%E7%AB%99%E9%95%BF%E9%AA%8C%E8%AF%81%E2%80%94%E2%80%94%E7%BD%91%E7%AB%99%E6%9C%AA%E8%A2%ABbing%E7%B4%A2%E5%BC%95.png)<br>
+上网查阅原因，被给到的建议是可能网站内容太少，遂向网站添加了10偏相关文章；但截止到撰写报告，依旧无法被索引
+
+**站长验证前后的数据对比：**
+
+六月五号开始验证，在这期间网站寥寥几个我自己的访问量，6月十号时，网站的访问量开始显著上升：<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/jept_6-10.png?raw=true)
+
+18左右，期间，我开启了Site24x7监视我的网站，猜测这之后网站的大部分访问数据来之监视器,但也不排除搜索引擎站长工具的认证带来的影响：<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7SEO%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%941.png?raw=true)
+
+#### SEO优化：
+**方法一：主动向搜索引擎提交网站链接**<br>
+通过向百度和bing主动提交网站URL;的方式，提高网站页面或文章被搜索到的概率：<br>
+手动向百度提交网站链接：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E2%80%94%E2%80%94%E5%90%91%E7%99%BE%E5%BA%A6%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BA%A4%E9%93%BE%E6%8E%A5.png)
+
+手动向bing提交网站链接：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BA%A4%E7%BD%91%E7%AB%99URL.png)
+
+
+**方法二：安装百度自动推送代码**<br>
+给网站内所有页面文章安装百度自动推动代码来提高网站被索引率：<br>
+在百度站长工具处copy其主动推送代码：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E5%A4%8D%E5%88%B6%E7%99%BE%E5%BA%A6%E4%B8%BB%E5%8A%A8%E6%8E%A8%E5%8A%A8%E4%BB%A3%E7%A0%81.png)
+然后在网站后台安装Header Footer Code Manager插件，这个插件可以为网站内所有页面文章统一添加代码：<br>
+![image](https://github.com/161013042/Web_Operations/raw/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E6%8F%92%E4%BB%B6.png)
+
+安装完毕后，使用该插架统一向网站所有页面粘贴百度自动推送代码：<br>
+![image](https://github.com/161013042/Web_Operations/raw/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E2%80%94%E2%80%94%E7%B2%98%E8%B4%B4%E7%99%BE%E5%BA%A6%E4%B8%BB%E5%8A%A8%E6%8E%A8%E5%8A%A8%E4%BB%A3%E7%A0%81.png)
+
+
+**方法三：主动向搜索引擎提交网站地图sitemap**
+向百度站长工具和bing网站管理员提交网站的站点地图：<br>
+百度站长工具:<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E5%90%91%E7%99%BE%E5%BA%A6%E6%8F%90%E4%BA%A4sitemap%E9%93%BE%E6%8E%A5.png?raw=true)
+
+bing网站管理员：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E5%90%91bing%E6%8F%90%E4%BA%A4sitemap.png)
+
+
+
+**方法四：关键词优化**
+通过YES插件，每一篇文章和页面进行关键词优化，寻找符合文章而又容易被索引的关键词：<br>示例：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BC%98%E5%8C%96.png)
+
+**方法五：页面url域名有意义化**
+按照文章和页面的特征，设计每个页面和面每篇文章的域名url，让其不再是简单的乱码，通过域名直观了解页面属性：<br>示例：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/wwdc2019seo%E9%93%BE%E6%8E%A5%E4%BC%98%E5%8C%96%E6%88%AA%E5%9B%BE.png)
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E5%9F%9F%E5%90%8D%E6%9C%89%E6%84%8F%E4%B9%89%E5%8C%96.png)
+**SEO优化前后数据网站数据对比：**
+因为几个SEO优化方案同时实施，故数据只能统一统计：
+
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/SEO%E6%95%B0%E6%8D%AE%E5%AF%B9%E6%AF%94.png)
+
+24号晚进行SEO优化后，网站访问量飞速上涨，效果显著。
+
+
+
+
+
+
+
 
 
 
@@ -220,20 +298,20 @@ B组用户平均用时不到40秒就完成了任务，而A组平均用时在一�
 
 #### 定制化方案：
 ###### 方案一：
-我的网站作为一个分享传播知识资讯的博客，用户的大部分使用场景可能都会是碎片化的，这就对网站的加载速度有一定的要求，加上网站跟新速率并不会太高，所以权衡之下，在升级了主机服务器的同时，决定使用WP Super Cache插架，这个插件可以在用户访问网站的设备上自动生成网站缓存，优化用户的访问速度。<br>
-![image](https://note.youdao.com/favicon.ico这个插架生成缓存，提高速度)
+我的网站作为一个分享传播知识资讯的博客，用户的大部分使用场景可能都会是碎片化的，这就对网站的加载速度有一定的要求，加上网站更新速率并不会太高，所以权衡之下，在升级了主机服务器的同时，决定使用WP Super Cache插架，这个插件可以在用户访问网站的设备上自动生成网站缓存，优化用户的访问速度。<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E8%BF%99%E4%B8%AA%E6%8F%92%E6%9E%B6%E7%94%9F%E6%88%90%E7%BC%93%E5%AD%98%EF%BC%8C%E6%8F%90%E9%AB%98%E9%80%9F%E5%BA%A6.png)
 
 ###### 方案二
 网站内部分我个人的原创内容和授权转载的其他网站的资源，为保护知识产权和原创内容，决定
 使用WP Content Copy Protection & No Righ Click 插件，防止网站内容被右键复制粘贴，保护网站内容版权
-![image](https://note.youdao.com/favicon.ico个插件能禁止网站内容被右键复制粘贴，保护网站内容版权)
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E4%B8%AA%E6%8F%92%E4%BB%B6%E8%83%BD%E7%A6%81%E6%AD%A2%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E8%A2%AB%E5%8F%B3%E9%94%AE%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%EF%BC%8C%E4%BF%9D%E6%8A%A4%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E7%89%88%E6%9D%83.png)
 
 ## 加分项：
 ###### 使用https：
 网站域名添加了SSL证书，访问域名上有https[（链接查看）](https://wunianliu.xyz/)：
-![image](https://note.youdao.com/favicon.ico网站添加了SSL证书)
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E7%BD%91%E7%AB%99%E6%B7%BB%E5%8A%A0%E4%BA%86SSL%E8%AF%81%E4%B9%A6.png?raw=true)
 
 ###### 开启了多站点[（链接查看）](https://wunianliu.xyz/luojiaohaosb/)：
-![image](https://note.youdao.com/favicon.ico)
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E5%A4%9A%E7%AB%99%E7%82%B9.png)
 
 
