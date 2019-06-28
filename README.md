@@ -142,3 +142,98 @@ PS：
 ![image](https://github.com/161013042/Web_Operations/blob/master/%E4%BA%91%E7%AB%AF%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86/%E5%90%8E%E5%8F%B0%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E5%AF%BC%E5%87%BA%E7%94%BB%E9%9D%A2.png?raw=true)：<br>
 ![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E4%BA%91%E7%AB%AF%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86/%E5%AF%BC%E5%87%BA%E7%9A%84%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF%E7%A1%AE%E8%AE%A4.png)
 
+## 站长工具
+#### 站长认证：
+百度站长认证
+
+
+
+
+## 用户研究
+#### 用户研究方法：
+我选择了++用户访谈++和++A/B测试++两种用户研究方法：
+###### 一、用户访谈[(录音文件)](https://github.com/161013042/Web_Operations/tree/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6/%E7%94%A8%E6%88%B7%E8%AE%BF%E8%B0%88)
+**问题设置：**
+1. 你对这个网站的整体印象是什么？
+1. 你认为我的网站主要是做什么的？
+1. 你觉得这个网站有什么亮点或者缺点吗？
+1. 你最希望我的网站就行哪方面的改动？
+
+**反馈总结：**
+1. 80%用户表示能从网站的内容和配色配图中看出网站的属性。
+2. 40%的用户提到专业、清爽等关键词。
+1. 80%的用户表示希望给文章增加封面图片。<br>
+1. 20%的用户希望将搜索功能放置到更明显的地方。<br>
+1. 60%用户表示封面不统十分影响界面美观，20%用户表示可以去掉尺寸不统一的封面图。<br>
+1. 40%的用户希望侧边栏“近期文章” 栏目去掉文章封面设置。
+1. 60%用户委婉表示希望网站的访问速度难以忍受。
+
+**改进方法：**
+1. 在导航栏增加搜索功能
+2. 为文章增加封面图片
+3. 统一文章的封面尺寸
+4. 去除侧边栏“近期文章”模块文章的封面图
+5. 升级服务器主机，加快网站整体加载速度
+
+**改进前页面布局方案：<br>**
+文章没有封面图片、不足以吸引用户目光，文章内容的传达不够直观。<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E6%96%87%E7%AB%A0%E5%8F%AA%E6%9C%89%E6%96%87%E5%AD%97%E6%A0%87%E9%A2%98%EF%BC%8C%E6%B2%A1%E6%9C%89%E5%B0%81%E9%9D%A2%EF%BC%8C%E4%B8%8D%E8%83%BD%E5%90%B8%E5%BC%95%E7%94%A8%E6%88%B7%E8%A7%86%E6%80%A7%EF%BC%8C%E4%B8%94%E8%AE%A9%E7%95%8C%E9%9D%A2%E6%B2%A1%E6%9C%89%E5%B1%82%E6%AC%A1%EF%BC%8C%E6%8A%93%E4%B8%8D%E4%BD%8F%E7%9C%BC%E7%90%83.jpg?raw=true)
+搜索功能布局于侧边栏，位置不够明显<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E5%AF%B9%E4%BA%8E%E4%B8%80%E4%B8%AA%E5%86%85%E5%AE%B9%E4%B8%BA%E4%B8%BB%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%EF%BC%8C%E8%AE%A4%E4%B8%BA%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD%E5%BA%94%E8%AF%A5%E6%9B%B4%E6%98%BE%E7%9C%BC%EF%BC%8C%E8%BF%99%E9%87%8C%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD%E8%AF%BE%E5%8F%AF%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F.png?raw=true)<br>
+增加文章封面后，文章封面不统一，布局混乱：<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87%E5%B0%BA%E5%AF%B8%E4%B8%8D%E7%BB%9F%E4%B8%80.jpg?raw=true)
+增加侧边栏“近期文章”模块的文章封面，结果发现反馈并不友好：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E4%BE%A7%E8%BE%B9%E6%A0%8F%E8%BF%91%E6%9C%9F%E6%96%87%E7%AB%A0%E7%9A%84%E5%9B%BE%E7%89%87%E5%A4%AA%E7%AA%81%E5%85%80%EF%BC%8C%E4%B8%8E%E4%B8%BB%E5%86%85%E5%AE%B9%E6%A0%8F%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E7%9B%B8%E5%86%B2%EF%BC%8C%E6%98%BE%E5%BE%97%E9%A1%B5%E9%9D%A2%E5%BE%88%E4%B9%B1%EF%BC%8C%E5%BB%BA%E8%AE%AE%E5%8E%BB%E6%8E%89.png)
+
+**根据用户访谈反馈改进后的方案：**<br>
+为文章增加封面图片，并统一封面尺寸：<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E7%BB%9F%E4%B8%80%E4%BA%86%E6%96%87%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87%E5%B0%BA%E5%AF%B8.png?raw=true)<br>
+在导航栏增加搜索功能按钮：<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E5%9C%A8%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B7%BB%E5%8A%A0%E6%90%9C%E7%B4%A2%E6%8C%89%E9%92%AE.png?raw=true)<br>
+去除侧边栏“近期文章”模块文章封面：<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E5%8E%BB%E6%8E%89%E2%80%9C%E8%BF%91%E6%9C%9F%E6%96%87%E7%AB%A0%E2%80%9D%E6%A0%8F%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E8%AE%BE%E7%BD%AE.png?raw=true)<br>
+在digitalocean升级服务器主机，改善网站加载速度：
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6%EF%BC%8C%E5%AF%B9%E4%B8%BB%E6%9C%BA%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%8D%87%E7%BA%A7.png?raw=true)
+
+
+
+
+
+
+
+
+###### 二、A/B测试[（录音文件链接）](https://github.com/161013042/Web_Operations/tree/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6/AB%E6%B5%8B%E8%AF%95)
+考察网站二级页面下的文章陈列的两种布局方式<br>
+**A方案：**
+二级导航页面内，通过文章后添加分类目录标签区分文章类别：<br>
+![image](https://github.com/161013042/Web_Operations/blob/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E8%BF%90%E8%90%A5%E6%8A%A5%E5%91%8A%E9%A1%B5%E9%9D%A2%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB%E5%A4%AA%E5%A4%9A%EF%BC%8C%E5%B8%8C%E6%9C%9B%E5%8F%AF%E4%BB%A5%E6%9C%89%E4%B8%AA%E7%AD%9B%E9%80%89%E5%8A%9F%E8%83%BD.png?raw=true)
+
+
+**B方案：**
+二级导航页面内，通过次级分类导航区分文章类别：<br>
+![image](https://raw.githubusercontent.com/161013042/Web_Operations/master/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6/%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%AF%BC%E8%88%AA.png)
+
+**测试方法：**
+给定AB组用户共同的任务：不使用搜索功能的情况下，使用网站导航寻找wordpress建站技术文章，再从旁考察他们两组在不同布局方案下的用时。<br>
+**结论：**
+B组用户平均用时不到40秒就完成了任务，而A组平均用时在一分钟左右，所有可看出，B方案比A方案更有利于用户理清页面信息，网站架构。
+
+#### 定制化方案：
+###### 方案一：
+我的网站作为一个分享传播知识资讯的博客，用户的大部分使用场景可能都会是碎片化的，这就对网站的加载速度有一定的要求，加上网站跟新速率并不会太高，所以权衡之下，在升级了主机服务器的同时，决定使用WP Super Cache插架，这个插件可以在用户访问网站的设备上自动生成网站缓存，优化用户的访问速度。<br>
+![image](https://note.youdao.com/favicon.ico这个插架生成缓存，提高速度)
+
+###### 方案二
+网站内部分我个人的原创内容和授权转载的其他网站的资源，为保护知识产权和原创内容，决定
+使用WP Content Copy Protection & No Righ Click 插件，防止网站内容被右键复制粘贴，保护网站内容版权
+![image](https://note.youdao.com/favicon.ico个插件能禁止网站内容被右键复制粘贴，保护网站内容版权)
+
+## 加分项：
+###### 使用https：
+网站域名添加了SSL证书，访问域名上有https[（链接查看）](https://wunianliu.xyz/)：
+![image](https://note.youdao.com/favicon.ico网站添加了SSL证书)
+
+###### 开启了多站点[（链接查看）](https://wunianliu.xyz/luojiaohaosb/)：
+![image](https://note.youdao.com/favicon.ico)
+
+
